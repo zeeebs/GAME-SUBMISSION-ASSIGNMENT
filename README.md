@@ -1,4 +1,4 @@
-# Unreal-Engine-First-Person-Shooter-Game
+# Unreal Engine - First-Person Shooter Game
 
 This repository is for the First-Person Shooter game that I made using C++ and Unreal Engine.
 
